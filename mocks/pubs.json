@@ -22,7 +22,7 @@
         }]
     },
     {
-        "name": "2eme bar",
+        "name": "Le Live Bar",
         "owner": {
             "firstName": "prenom",
             "lastName": "nom",
@@ -31,11 +31,14 @@
         "openDays": [
             "Tuesday",
             "Wednesday",
-            "Thursday"
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
         ],
         "openHours": {
-            "start": 11,
-            "end": 1
+            "start": 17,
+            "end": 2
         },
         "beers": [{
             "type": "Blonde",
@@ -43,18 +46,21 @@
         }]
     },
     {
-        "name": "3eme bar",
+        "name": "le labo",
         "owner": {
             "firstName": "fghjxfgch",
             "lastName": "xfthxfghxfgh",
             "mail": "nhodicq@bewizyu.com"
         },
         "openDays": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
             "Saturday"
         ],
         "openHours": {
-            "start": 5,
-            "end": 1
+            "start": 18,
+            "end": 2
         },
         "beers": [{
             "type": "Blonde",
