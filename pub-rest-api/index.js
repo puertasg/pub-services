@@ -1,4 +1,4 @@
-const express = require('express');
+import express from "express";
 const pubService = require("pub-services").services.pubService;
 const app = express();
 app.get('/pubs', function (req, res) {
